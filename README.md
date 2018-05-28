@@ -8,7 +8,7 @@ Android 标签布局。
 ### 本示例基于 AndroidHelpers 库，访问 https://github.com/iWay7/AndroidHelpers 添加依赖。
 
 #### 开始使用：
-##### 准备一个可以随 selected 状态变化的 selector 颜色文件
+##### 准备一个可以随 selected 状态变化的 selector 颜色文件：
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
